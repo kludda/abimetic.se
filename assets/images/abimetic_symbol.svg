@@ -1,0 +1,19 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="386.5 239.7 251 288.6"
+  preserveAspectRatio="xMidYMid meet"
+>
+  <style type="text/css">
+    .st0{fill:#7FCBCB;}
+    .st1{fill:#2A163A;}
+  </style>
+
+  <g>
+    <polygon class="st0" points="553.8,311.9 512,384 595.7,384"/>
+    <polygon class="st1" points="512,239.7 470.2,311.9 512,384 553.8,311.9"/>
+    <polygon class="st1" points="470.2,456.1 428.3,528.3 595.7,528.3 637.5,456.1"/>
+    <polygon class="st0" points="428.3,384 386.5,456.1 428.3,528.3 470.2,456.1"/>
+    <polygon class="st1" points="470.2,456.1 512,384 428.3,384"/>
+  </g>
+</svg>
